@@ -1,0 +1,37 @@
+.package{
+    margin-top: 75px;
+}
+
+.carousel-item {
+    max-height: 450px;
+    /* Adjust the height as per your requirement */
+}
+
+.row {
+    background-color: white;
+}
+
+.desti {
+    font-weight: bold;
+}
+
+.get {
+    /* font-weight: bold; */
+    color: black;
+}
+
+.tex {
+    font-style: italic;
+}
+
+.name {
+    color: red;
+}
+
+.font-weight-bol {
+    color:black;
+}
+
+.fw-bold {
+    color: red;
+}

@@ -1,0 +1,60 @@
+.container {
+    /* max-width: 1500px; */
+}
+
+.heroContent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.row{
+    background-color: white;
+}
+
+.desti{
+    font-weight: bold;
+}
+
+.get{
+    /* font-weight: bold; */
+    color: black;
+}
+
+.tex{
+    font-style: italic;
+}
+
+.name{
+    color: red;
+}
+.nn{
+
+    color: black;
+}
+
+.fw-bold{
+    color: red;
+}
+
+.home{
+    margin-top: 75px;
+}
+
+.bk{
+    margin-left: 10px;
+}
+
+
+.imm{
+    width: 100%;
+    height: 450px;
+    /* margin-left: 50px; */
+}
+.carousel-inner{
+    /* width: 100% !important; */
+    /* max-height: 200px !important; */
+   
+}
