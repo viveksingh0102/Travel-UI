@@ -1,0 +1,13 @@
+.nav-link{
+    font-weight: bold;
+     text-transform: uppercase;
+}
+
+.active {
+     font-weight: bold;
+}
+
+.text1{
+     color: red;
+     font-weight: bold;
+}
